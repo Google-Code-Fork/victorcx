@@ -1,0 +1,22 @@
+C:\Documents and Settings\Administrador\Escritorio\VictorCX BOT\VictorCX BOT\VictorCX BOT\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\VictorCX BOT\VictorCX BOT\VictorCX BOT\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Administrador\Escritorio\VictorCX BOT\VictorCX BOT\VictorCX BOT\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Escritorio\VictorCX BOT\VictorCX BOT\VictorCX BOT\obj\Release\VictorCX BOT.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Escritorio\VictorCX BOT\VictorCX BOT\VictorCX BOT\bin\Release\packet.dll
+C:\Documents and Settings\Administrador\Escritorio\VictorCX BOT\VictorCX BOT\VictorCX BOT\bin\Release\TibiaAPI.dll
+C:\Documents and Settings\Administrador\Escritorio\VictorCX BOT\VictorCX BOT\VictorCX BOT\bin\Release\TibiaAPI_Inject.dll
+C:\Documents and Settings\Administrador\Escritorio\VictorCX BOT\VictorCX BOT\VictorCX BOT\bin\Release\VictorCX BOT.exe
+C:\Documents and Settings\Administrador\Escritorio\VictorCX BOT\VictorCX BOT\VictorCX BOT\bin\Release\VictorCX BOT.pdb
+C:\Documents and Settings\Administrador\Escritorio\VictorCX BOT\VictorCX BOT\VictorCX BOT\obj\Release\VictorCX BOT.exe
+C:\Documents and Settings\Administrador\Escritorio\VictorCX BOT\VictorCX BOT\VictorCX BOT\obj\Release\VictorCX BOT.pdb
+C:\Documents and Settings\Administrador\Mis documentos\VictorCX BOT\VictorCX BOT\VictorCX BOT\bin\Release\TibiaAPI.dll
+C:\Documents and Settings\Administrador\Mis documentos\VictorCX BOT\VictorCX BOT\VictorCX BOT\bin\Release\packet.dll
+C:\Documents and Settings\Administrador\Mis documentos\VictorCX BOT\VictorCX BOT\VictorCX BOT\bin\Release\TibiaAPI_Inject.dll
+C:\Documents and Settings\Administrador\Mis documentos\VictorCX BOT\VictorCX BOT\VictorCX BOT\bin\Release\VictorCX BOT.exe
+C:\Documents and Settings\Administrador\Mis documentos\VictorCX BOT\VictorCX BOT\VictorCX BOT\bin\Release\VictorCX BOT.pdb
+C:\Documents and Settings\Administrador\Mis documentos\VictorCX BOT\VictorCX BOT\VictorCX BOT\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\VictorCX BOT\VictorCX BOT\VictorCX BOT\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Administrador\Mis documentos\VictorCX BOT\VictorCX BOT\VictorCX BOT\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Mis documentos\VictorCX BOT\VictorCX BOT\VictorCX BOT\obj\Release\VictorCX BOT.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Mis documentos\VictorCX BOT\VictorCX BOT\VictorCX BOT\obj\Release\VictorCX BOT.exe
+C:\Documents and Settings\Administrador\Mis documentos\VictorCX BOT\VictorCX BOT\VictorCX BOT\obj\Release\VictorCX BOT.pdb

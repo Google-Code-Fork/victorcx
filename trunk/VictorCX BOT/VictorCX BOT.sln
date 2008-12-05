@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VictorCX BOT", "VictorCX BOT\VictorCX BOT.csproj", "{602F2EC7-29D1-4BE1-BA66-06D497C4CC3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{602F2EC7-29D1-4BE1-BA66-06D497C4CC3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{602F2EC7-29D1-4BE1-BA66-06D497C4CC3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{602F2EC7-29D1-4BE1-BA66-06D497C4CC3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{602F2EC7-29D1-4BE1-BA66-06D497C4CC3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
